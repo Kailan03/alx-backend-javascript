@@ -38,5 +38,4 @@ function countStudents(path) {
     });
 }
 
-// Export the function to be used in other modules
 module.exports = countStudents;
